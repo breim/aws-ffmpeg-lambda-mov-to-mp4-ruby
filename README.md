@@ -1,4 +1,4 @@
-##aws-ffmpeg-lambda-mov-to-mp4
+## aws-ffmpeg-lambda-mov-to-mp4
 
 This repo get **.mov** and **.MOV** files uploaded in bucket `bucket-converter-breim` and convert to mp4 and upload to folder `compressed`. You need change bucket name **bucket-converter-breim** to your bucket.
 
