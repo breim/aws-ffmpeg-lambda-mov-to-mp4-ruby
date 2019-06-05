@@ -11,6 +11,8 @@ Install serverless:
  
 ``git clone https://github.com/breim/aws-ffmpeg-lambda-mov-to-mp4``
 
+Edit your 
+
  ``cd aws-ffmpeg-lambda-mov-to-mp4 && sls deploy``
  
  After code deployed we need enable S3Full Access to IAM role created by serverless lib. Just follow prints bellow:
